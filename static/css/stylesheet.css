@@ -1,0 +1,22 @@
+.img-logo{
+    width: auto;
+    height: 100px;
+}
+h2{
+    font-family: Serif;
+    color: #808080
+}
+
+.img-size{
+    position: relative;
+    float: left;
+    width:  350px;
+    height: 350px;
+    padding: 5px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+.H_and_F{
+    background-color: #808080;
+}
